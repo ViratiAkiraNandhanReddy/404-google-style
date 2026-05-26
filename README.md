@@ -7,20 +7,6 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![Web Standard](https://img.shields.io/badge/Web-Standard-brightgreen)](https://www.w3.org/standards/)
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Demo](#demo)
-- [Quick Start](#quick-start)
-- [Project Structure](#project-structure)
-- [Customization](#customization)
-- [Browser Support](#browser-support)
-- [Contributing](#contributing)
-- [Security](#security)
-- [License](#license)
-- [Disclaimer](#disclaimer)
-
 ## 🎯 Overview
 
 **404-Google-Style** is an educational project that faithfully reproduces Google's classic 404 error page layout. This project demonstrates modern web development practices using semantic HTML5 and responsive CSS3, without any external dependencies or frameworks.
