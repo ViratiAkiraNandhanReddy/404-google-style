@@ -1,0 +1,158 @@
+## OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.swp
+*.swo
+*~
+
+## IDE & Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+.vim/
+.emacs.d/
+
+## VS Code
+.vscode/*
+!.vscode/extensions.json
+*.code-workspace
+
+## JetBrains IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+*.sublime-workspace
+
+## Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+## Vim
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
+Session.vim
+.exrc
+
+## Node.js (if using build tools in future)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+.npm
+
+## Python (if using Python tools in future)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+
+## Local environment files
+.env
+.env.local
+.env.*.local
+
+## Build output
+dist/
+build/
+*.log
+
+## Temporary files
+*.tmp
+*.bak
+*.backup
+*.swp
+*~
+
+## OS Junk Files
+.AppleDouble
+.LSOverride
+._*
+.apdisk
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+## Browser cache
+.cache/
+*.bak
+*.backup
+
+## System files
+desktop.ini
+.AppleDouble
+.DS_Store
+
+## Project specific (for when we add tooling)
+.vscode-test/
+test-results/
+coverage/
+artifacts/
+
+## Docker (if containerized)
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+## CI/CD
+.github/workflows/*.log
+.github/workflows/artifacts/
+
+## Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+## Compiled files
+*.o
+*.obj
+*.exe
+*.dll
+
+## Screenshots (for local testing, not part of repo)
+screenshots/
+*.png
+*.jpg
+*.jpeg
+screenshots_temp/
+
+## Dependencies (if added in future)
+node_modules/
+vendor/
+
+## Distribution files (if generated)
+dist/
+build/
+*.min.js
+*.min.css
